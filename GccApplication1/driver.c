@@ -4,6 +4,7 @@
 	|__  |  __)
 
 	MIT License
+	Coucou
 
 	Copyright (c) 2018	École de technologie supérieure
 
